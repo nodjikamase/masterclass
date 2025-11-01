@@ -1,1 +1,1 @@
-console.log("SALUT TOI, CA VA?");
+alert("SALUT TOI, CA VA?");
